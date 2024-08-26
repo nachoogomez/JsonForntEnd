@@ -1,0 +1,61 @@
+[
+    { "id": 1,
+      "nombre": "Harry Potter",
+      "casa": "Gryffindor",
+      "img": "https://ik.imagekit.io/hpapi/harry.jpg"
+    },
+    { "id": 2,
+      "nombre": "Hermione Granger", 
+      "casa": "Gryffindor",
+      "img": "https://ik.imagekit.io/hpapi/hermione.jpeg"
+    },
+    { 
+      "id": 3, 
+      "nombre": "Ron Weasley", 
+      "casa": "Gryffindor" ,
+      "img":"https://ik.imagekit.io/hpapi/ron.jpg"
+    },
+    { 
+      "id": 4, 
+      "nombre": "Draco Malfoy", 
+      "casa": "Slytherin",
+      "img":"https://ik.imagekit.io/hpapi/draco.jpg"
+    },
+    { 
+      "id": 5, 
+      "nombre": "Luna Lovegood", 
+      "casa": "Ravenclaw",
+      "img":"https://ik.imagekit.io/hpapi/luna.jpg"
+    },
+    { 
+      "id": 6, 
+      "nombre": "Cho Chang", 
+      "casa": "Ravenclaw",
+      "img":"https://ik.imagekit.io/hpapi/cho.jpg" 
+    },
+    { 
+      "id": 7, 
+      "nombre": "Cedric Diggory", 
+      "casa": "Hufflepuff",
+      "img":"https://ik.imagekit.io/hpapi/cedric.png"
+    },
+    { 
+      "id": 8, 
+      "nombre": "Neville Longbottom", 
+      "casa": "Gryffindor",
+      "img":"https://ik.imagekit.io/hpapi/neville.jpg" 
+    },
+    { 
+      "id": 9, 
+      "nombre": "Pansy Parkinson", 
+      "casa": "Slytherin",
+      "img":"no img" 
+    },
+    { 
+      "id": 10, 
+      "nombre": "Susan Bones", 
+      "casa": "Hufflepuff",
+      "img":"no img" 
+    }
+  ]
+  
